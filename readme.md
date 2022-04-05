@@ -12,3 +12,7 @@ response: {products: [{}, {}, {}...]}
    -orders
    -what other table might we need (think about the relationship between products and orders)
 5. seed database with tables and junk data (orders, products, etc..)
+6. use branches.
+   - what is a branch? (a copy of master that exists independent of master)
+   - you will use a branch to write new code and then push that branch to github
+   - how make new branch (git checkout -b "name of branch")
