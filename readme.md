@@ -20,3 +20,5 @@ response: {products: [{}, {}, {}...]}
    - how make new branch (git checkout -b "name of branch")
 
 pull-requests - your pulling new code from a branch into master
+
+i sure hope theres no conflicts...
